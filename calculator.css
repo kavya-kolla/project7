@@ -1,0 +1,12 @@
+body{
+background-color: whitesmoke;
+border: 50px;
+}
+button{
+    background-color:lightcoral;
+    color: black;
+    border-radius: 80%;
+}
+#result{
+border-radius: 500px;
+}
